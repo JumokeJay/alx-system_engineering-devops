@@ -1,2 +1,2 @@
 #!/bin/bash
-read -p "Enter a list of words:" | tr ' ' '\n' | sort | uniq -u
+| tr ' ' '\n' | sort | uniq -u
